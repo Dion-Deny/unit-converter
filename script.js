@@ -35,3 +35,4 @@ function convertMass(){
 
     massConversion.innerHTML=`<p> ${inputValue} kilos = ${poundsValue} pounds | ${inputValue} pounds = ${kilosValue} kilos`
 }
+console.log("2nd Updated Version")
