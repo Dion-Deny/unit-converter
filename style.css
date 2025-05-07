@@ -21,7 +21,8 @@ body{
 }
 
 .container{
-    background: #1F2937;
+    background: #F4F4F4;
+    ;
     height: 729px;
     min-width: 550px;
     font-family: "Inter", serif;
@@ -90,7 +91,7 @@ input::-webkit-inner-spin-button {
 }
 
 .container .main section{
-    background: #273549;
+    background: #fff;
     width: 100%;
     height: 109px;
     border-radius: 3px;
@@ -102,13 +103,13 @@ input::-webkit-inner-spin-button {
 }
 
 .container .main section h2{
-    color: #ccc1ff;
+    color: #5A537B;
     font-size: 1.25rem;
     font-weight: 600;
 }
 
 .container .main section p{
-    color: #fff;
+    color: #353535;
     font-size: 1rem;
 
 }
